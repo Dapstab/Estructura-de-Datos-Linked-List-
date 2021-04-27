@@ -7,7 +7,8 @@ Juan David Barreto
 
 Tenemos dos repositorios, la razón de esto es porque queremos trabajar las distintas estructuras de datos en códigos diferentes, para no tener que implementar un código muy extenso y ademas para llevar un orden con las implementaciones.
 
-Código con ArrayList: https://github.com/Dapstab/ED-ArrayList-G7.git
+Código con ArrayList: https://github.com/Dapstab/Estructuras-de-datos-ArrayList.git
+
 
 Si usted compara ambos códigos, podra ver que son en su mayor medida muy similares, con pequeñas variaciones en el uso de las estructuras de datos.
 
